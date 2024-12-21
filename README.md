@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jithinponduru" alt="jithinponduru" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/JithinPonduru/Portfolio)
+- 🔭 I’m currently working on [Decentra](https://github.com/JithinPonduru/Decentra)
 
 - 🌱 I’m currently learning **Next.js, AWS / Google Cloud / Azure, RESTful and GraphQL API Design**
 
-- I've worked on projects like [Android RAT Detection Project](https://github.com/JithinPonduru/Android-RAT-Detection)
+- I've worked on projects like [Android RAT Detection Project](https://github.com/JithinPonduru/Android-RAT-Detection),[TenderChain](https://github.com/JithinPonduru/TenderChain)
 
 - 👨‍💻 All of my projects are available at [https://github.com/JithinPonduru](https://github.com/JithinPonduru)
 
